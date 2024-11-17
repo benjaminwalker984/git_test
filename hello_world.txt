@@ -1,1 +1,2 @@
 Yoyoyo I'm trying to learn about git and GitHub!
+This is my second line! I want some reps staging and commiting.
